@@ -32,7 +32,7 @@ The application should connect to the default server port (3042) automatically!
 
 _Hint_ - Use [nodemon](https://www.npmjs.com/package/nodemon) instead of `node` to automatically restart the server on any changes.
 
-## My way of tackling (2.0.0 secp256k1)
+## Intrusion by my way 
 
 1. Generate a random wallet in frontend and save the eth address in the backend with amount
 2. Everytime a user wants to send a transaction
